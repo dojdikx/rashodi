@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_reports"
+        android:title="Отчеты"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_theme_settings"
+        android:title="Настройки темы"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_manage_categories"
+        android:title="Управление категориями"
+        app:showAsAction="never" />
+</menu> 

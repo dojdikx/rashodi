@@ -1,0 +1,54 @@
+.gradle/
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries/
+.DS_Store
+build/
+*.iml
+local.properties
+
+# Android-specific files
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Crashlytics debug files
+*.txt
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration
+local.properties
+
+# Generated files
+**/build/
+**/generated/
+
+# IDE specific files
+.idea/
+.vs/
+*.iml
+*.ipr
+*.iws
+
+# Keystore files
+*.jks
+*.keystore
+
+# Android Studio will create these files
+.gradle
+.idea
+local.properties
+*.iml
+*.ap_
+*.aab
+*.apk
+*.aar
+
+# External Native Build
+.externalNativeBuild
+
+# NDK
+.cxx
